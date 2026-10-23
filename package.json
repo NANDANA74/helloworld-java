@@ -1,0 +1,11 @@
+
+{
+  "name": "hello-node-server",
+  "version": "1.0.0",
+  "description": "A basic Node.js HTTP server serving a student data table",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "private": true
+}
